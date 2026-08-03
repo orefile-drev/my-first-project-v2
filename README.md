@@ -13,3 +13,6 @@ Welcome to my very first GitHub repository!
 Learn to code and build cool stuff!
 
 Thanks for visiting ❤️
+## About Me
+Hi I'm [your name] 👋  
+I love cars, learning to code, and taking photos 🌳🚗
