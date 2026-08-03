@@ -14,5 +14,5 @@ Learn to code and build cool stuff!
 
 Thanks for visiting ❤️
 ## About Me
-Hi I'm [your name] 👋  
+Hi I'm Orefile aka KRFTINTO GHO 👋  
 I love cars, learning to code, and taking photos 🌳🚗
