@@ -5,6 +5,7 @@ Welcome to my very first GitHub repository!
 
 ### What's inside:
 - 📸 My first uploaded image
+   ![My first car](IMG-20260213-WA0069.jpg)
 - 💪 Made with help from my AI coding buddy
 - 🚀 Just getting started with GitHub
 
